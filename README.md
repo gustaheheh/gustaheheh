@@ -35,13 +35,6 @@
 
 <br>
 
-<div align="center">
-
-<!-- Contador de Views -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=gustaheheh&icon=3&color=blue" alt="Profile Views" />
-</a>
-
 <!-- Divisórias de Ondas Cinzas no Final -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" />
 
