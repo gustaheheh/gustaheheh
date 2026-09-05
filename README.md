@@ -14,10 +14,10 @@
 
 ## 👨‍💻 Sobre mim
 
-* Desenvolvedor Back-end
-* Resolução de problemas
+* Futuro desenvolvedor Back-end
+* Resolvendo problemas com código
 * Criação e evolução de Software
-* Estudos constantes
+* Sempre estudando e aprendendo coisas novas
 * Apaixonado pelo ecossistema Linux
 
 <br>
