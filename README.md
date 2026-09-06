@@ -22,6 +22,8 @@
 
 </div>
 
+<br>
+
 ## ✨ Sonhos e objetivos
 
 
@@ -31,6 +33,7 @@ Minha primeira linguagem (**Python**) me fez enxergar como a programação pode 
 
 O meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me interesso na ideia de ser um **Dev T-Shaped**. Venho me interessado pelo **baixo-nível** e quero adquirir cada vez **aprendizado** e **experiência** para ficar pronto para o mercado :) 
 
+<br>
 
 ## ⚙️ Stack
 
