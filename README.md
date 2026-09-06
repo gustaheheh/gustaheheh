@@ -5,7 +5,7 @@
 <br>
 <!-- Texto Animado em Branco -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Entusiasta+de+Tech,+TI+e+Hardware+%3A%29;Desenvolvedor+apaixonado+por+computação;Aprendendo,+construindo,+repetindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1750&color=FFFFFF&center=true&vCenter=true&width=600&lines=Entusiasta+de+Tech,+TI+e+Hardware+%3A%29;Desenvolvedor+apaixonado+por+computação;Aprendendo,+construindo,+repetindo" alt="Typing SVG" />
 </a>
 
 </div>
@@ -45,8 +45,6 @@ O meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me 
 
 ### Ferramentas
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-
-<br>
 
 <!-- Divisórias de Ondas Cinzas no Final -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" />
