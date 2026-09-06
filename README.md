@@ -27,7 +27,7 @@
 ## ✨ Sonhos e objetivos
 
 
-Eu diria que o meu nível atual como um programador é de um **Iniciante avançado**. Estou sempre **curioso** e **determinado** para aprender como sistemas funcionam e se comunicam entre si.
+Eu diria que o meu nível atual como programador é de um **Iniciante avançado**. Estou sempre **curioso** e **determinado** em aprender como sistemas funcionam e se comunicam entre si.
 
 Minha primeira linguagem (**Python**) me fez enxergar como a programação pode ser **fácil de absorver**, já a minha segunda linguagem (**C#**) me fez enxergar a programação de uma forma mais **organizada** e **estruturada**.
 
