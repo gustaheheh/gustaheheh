@@ -31,7 +31,7 @@ Eu diria que o meu nível atual como programador é de um **Iniciante avançado*
 
 Minha primeira linguagem (**Python**) me fez enxergar como a programação pode ser **fácil de absorver**, já a minha segunda linguagem (**C#**) me fez enxergar a programação de uma forma mais **organizada** e **estruturada**.
 
-O meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me interesso na ideia de ser um **Dev T-Shaped**. Venho me interessado pelo **baixo-nível** e quero adquirir cada vez **aprendizado** e **experiência** para ficar pronto para o mercado :) 
+O meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me interesso na ideia de ser um **Dev T-Shaped**. Venho me interessando pelo **baixo-nível** e quero adquirir cada vez **aprendizado** e **experiência** para ficar pronto para o mercado :) 
 
 <br>
 
