@@ -38,13 +38,19 @@ O meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me 
 ## ⚙️ Stack
 
 ### Linguagens
-[![Stack](https://skillicons.dev/icons?i=python,cs,c)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python,cs,c)](https://skillicons.dev)          
 
 ### Backend & Infraestrutura
 [![Stack](https://skillicons.dev/icons?i=dotnet,sqlite,docker,linux)](https://skillicons.dev)
 
 ### Ferramentas
-[![Stack](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git " style="vertical-align: middle;" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" height="50" width="50" alt="Fedora" style="vertical-align: middle; margin-left: 3px;" />
+</p>
+
 
 <!-- Divisórias de Ondas Cinzas no Final -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" />
