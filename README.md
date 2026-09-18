@@ -38,13 +38,17 @@ Meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me in
 ## ⚙️ Stack
 
 ### Linguagens
-[![Stack](https://skillicons.dev/icons?i=python,cs,c)](https://skillicons.dev)          
+[![Stack](https://skillicons.dev/icons?i=python,cs,c)](https://skillicons.dev)    
+
+### Linguagens Futuras
+[![Stack](https://skillicons.dev/icons?i=ts,go,rust)](https://skillicons.dev)  
 
 ### Backend & Infraestrutura
-[![Stack](https://skillicons.dev/icons?i=dotnet,sqlite,docker,linux)](https://skillicons.dev)
+![Stack](https://go-skill-icons.vercel.app/api/icons?i=dotnet,sqlite,docker,linux&theme=dark)
 
 ### Ferramentas
-[![Stack](https://skillicons.dev/icons?i=vscode,github,git&theme=dark)](https://skillicons.dev)
+![Stack](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,fedora&theme=dark)
+
 
 <!-- Divisórias de Ondas Cinzas no Final -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" />
