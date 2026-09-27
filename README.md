@@ -15,8 +15,7 @@
 ## 👨‍💻 Sobre mim
 
 * Futuro desenvolvedor Back-end
-* Resolvendo problemas com código
-* Criação e evolução de Software
+* Atualmente criando projetos para colocar meus conhecimentos em prática
 * Sempre estudando e aprendendo coisas novas
 * Apaixonado pelo ecossistema Linux
 
@@ -27,11 +26,11 @@
 ## ✨ Sonhos e objetivos
 
 
-Eu diria que o meu nível atual como programador é de um **Iniciante avançado**. Estou sempre **curioso** e **determinado** em aprender como sistemas funcionam e se comunicam entre si.
+Eu diria que o meu nível atual como programador é de um **Iniciante avançado**. Estou sempre **curioso** e **determinado** a aprender como sistemas funcionam e se comunicam entre si.
 
-Minha primeira linguagem (**Python**) me fez enxergar como a programação pode ser **fácil de absorver**, já a minha segunda linguagem (**C#**) me fez enxergar a programação de uma forma mais **organizada** e **estruturada**.
+Minha primeira linguagem (**Python**) me fez enxergar como a programação pode ser **fácil de absorver**, principalmente através da Lógica de Programação. Já a minha segunda linguagem (**C#**) me fez enxergar a programação de uma forma mais **organizada** e **estruturada** (POO e tipagem forte).
 
-Meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me interesso na ideia de ser um **Dev T-Shaped**. Venho me interessando pelo **baixo-nível** e quero adquirir cada vez mais **aprendizado** e **experiência** para ficar pronto para o mercado de trabalho :) 
+Meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me interesso pela ideia de ser um **Dev T-Shaped**. Venho me interessando pelo **baixo-nível** e quero adquirir cada vez mais **conhecimento** e **experiência** para estar cada vez mais preparado para o mercado de trabalho e projetos pessoais paralelos :) 
 
 <br>
 
@@ -40,7 +39,7 @@ Meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me in
 ### Linguagens
 [![Stack](https://skillicons.dev/icons?i=python,cs,c)](https://skillicons.dev)    
 
-### Linguagens Futuras
+### Próximos Estudos
 [![Stack](https://skillicons.dev/icons?i=ts,go,rust)](https://skillicons.dev)  
 
 ### Backend & Infraestrutura
