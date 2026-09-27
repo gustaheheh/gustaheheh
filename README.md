@@ -12,7 +12,7 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 💻 Sobre mim
 
 * Futuro desenvolvedor Back-end
 * Atualmente criando projetos para colocar meus conhecimentos em prática
