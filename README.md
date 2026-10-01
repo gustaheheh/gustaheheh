@@ -3,7 +3,7 @@
 # Gustavo
 
 <br>
-<!-- Texto Animado em Branco -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1750&color=FFFFFF&center=true&vCenter=true&width=600&lines=Entusiasta+de+Tech,+TI+e+Hardware+%3A%29;Desenvolvedor+apaixonado+por+computação;Aprendendo,+construindo,+repetindo" alt="Typing SVG" />
 </a>
@@ -14,23 +14,21 @@
 
 ## 💻 Sobre mim
 
-* Futuro desenvolvedor Back-end
-* Atualmente criando projetos para colocar meus conhecimentos em prática
+Sou um programador curioso e determinado a aprender como os sistemas funcionam e se comunicam.
+
+* Foco em desenvolvimento Backend
+* Criação e evolução de Software
 * Sempre estudando e aprendendo coisas novas
 * Apaixonado pelo ecossistema Linux
 
-</div>
-
 <br>
 
-## ✨ Sonhos e objetivos
+## 🎯 Objetivos
 
+Minha primeira linguagem foi **Python**, onde desenvolvi minha base em **Lógica de Programação**.
+Com **C#**, aprofundei meus conhecimentos em **POO**, **tipagem forte** e **código estruturado**.
 
-Eu diria que o meu nível atual como programador é de um **Iniciante avançado**. Estou sempre **curioso** e **determinado** a aprender como sistemas funcionam e se comunicam entre si.
-
-Minha primeira linguagem (**Python**) me fez enxergar como a programação pode ser **fácil de absorver**, principalmente através da Lógica de Programação. Já a minha segunda linguagem (**C#**) me fez enxergar a programação de uma forma mais **organizada** e **estruturada** (POO e tipagem forte).
-
-Meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me interesso pela ideia de ser um **Dev T-Shaped**. Venho me interessando pelo **baixo-nível** e quero adquirir cada vez mais **conhecimento** e **experiência** para estar cada vez mais preparado para o mercado de trabalho e projetos pessoais paralelos :) 
+Atualmente, meu objetivo é me tornar um **Desenvolvedor Backend** e, no longo prazo, construir um perfil **T-Shaped**, explorando também baixo nível, infraestrutura e diferentes áreas da computação. :) 
 
 <br>
 
@@ -48,8 +46,6 @@ Meu objetivo principal é me tornar um **Desenvolvedor Back-end**, porém, me in
 ### Ferramentas
 ![Stack](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,fedora&theme=dark)
 
+<br>
 
-<!-- Divisórias de Ondas Cinzas no Final -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" />
-
-</div>
