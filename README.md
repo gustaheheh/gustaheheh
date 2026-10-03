@@ -2,6 +2,8 @@
 
 # Gustavo
 
+<img src="./pfp-circle.png" height="220" style="border-radius: 50%;" />
+
 <br>
 
 <a href="https://git.io/typing-svg">
