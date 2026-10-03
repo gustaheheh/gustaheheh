@@ -28,7 +28,7 @@ Sou um programador curioso e determinado a aprender como os sistemas funcionam e
 Minha primeira linguagem foi **Python**, onde desenvolvi minha base em **Lógica de Programação**.
 Com **C#**, aprofundei meus conhecimentos em **POO**, **tipagem forte** e **código estruturado**.
 
-Atualmente, meu objetivo é me tornar um **Desenvolvedor Backend** e, no longo prazo, construir um perfil **T-Shaped**, explorando também baixo nível, infraestrutura e diferentes áreas da computação. :) 
+Atualmente, meu objetivo é me tornar um **Desenvolvedor Backend** e, no longo prazo, construir um perfil **T-Shaped**, explorando também baixo nível, infraestrutura e diferentes áreas da computação :) 
 
 <br>
 
